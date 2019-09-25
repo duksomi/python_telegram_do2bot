@@ -24,6 +24,8 @@ msgid ""
 "\n"
 "This bot is usable via inline mode. To see a list of your current lists, just type the bots name in the chat like '`@do2bot `'."
 msgstr ""
+"Um eine neue Liste zu erstellen, tippe /new. Danach gib einen Titel für die Liste ein. Wenn du damit fertig bist, kannst du eine Liste mit Dingen senden und der Bot wird diese der Liste hinzufügen.\n"
+
 
 #: helpFuncs.py:23
 msgid "To make backups, use the /backup command. The bot then will take your stored lists and pack them in a .json file and send this one file to you. This function is also currently being developed, so there will be more functions to this soon."
